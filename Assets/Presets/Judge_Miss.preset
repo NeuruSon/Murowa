@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Judge_Miss
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 54d21f6ece3b46479f0c328f8c6007e0,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: colorMode
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: topLeft.r
+    value: 0.6132076
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: topLeft.g
+    value: 0.6132076
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: topLeft.b
+    value: 0.6132076
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: topLeft.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: topRight.r
+    value: 0.5566038
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: topRight.g
+    value: 0.5566038
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: topRight.b
+    value: 0.5566038
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: topRight.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bottomLeft.r
+    value: 0.3301887
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bottomLeft.g
+    value: 0.3301887
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bottomLeft.b
+    value: 0.3301887
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bottomLeft.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bottomRight.r
+    value: 0.3490566
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bottomRight.g
+    value: 0.3490566
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bottomRight.b
+    value: 0.3490566
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bottomRight.a
+    value: 1
+    objectReference: {fileID: 0}

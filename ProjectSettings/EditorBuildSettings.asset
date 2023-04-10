@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/RunawayBaby_Title.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/RunawayBaby_Story.unity
+    guid: 2e193f906cff8499cb8d7ea5495f1fa8
+  - enabled: 1
+    path: Assets/Scenes/RunawayBaby_Game.unity
+    guid: b62a61ce466a64b1396f493c302c7753
+  m_configObjects: {}

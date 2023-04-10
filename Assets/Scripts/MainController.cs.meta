@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8f660285a25174d47a3fb88845627bc1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyNote: {fileID: 6449744044219699914, guid: 69bf94d61dea547b3866e4d3cefa87dd,
+      type: 3}
+  - sfx: {fileID: 8300000, guid: 693ee880abb5140c1b3e5fffa9de0eec, type: 3}
+  - hit: {fileID: 8300000, guid: 901ac770c155e43adbe979661b3afd48, type: 3}
+  - judgeText: {fileID: 6881151779626217587, guid: d6da03221a7b14e4b98c9175581d9454,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 73c64f91a348643b3aa806c32e1ec27c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bpmLine: {fileID: 4815664181219219261, guid: 2df56bd6fb02446518ef6624e087eaa1,
+      type: 3}
+  - readySfx: {fileID: 8300000, guid: ea315f768affe45048d41a256d16317c, type: 3}
+  - tutoMusic: {fileID: 8300000, guid: 94bed45f615d44946a1febf76760cf99, type: 3}
+  - queueMusic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
